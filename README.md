@@ -232,7 +232,7 @@ pm.test("Booking should be deleted", function () {
 ## **How to Execute the Collection**
 
 1. **Open Postman** and go to the **Collections** tab.
-2. **Import the Collection**: If you received this markdown with a `.json` file, import the collection by clicking the **Import** button in Postman and selecting the file.
+2. **Import the Collection**:Import the collection by clicking the **Import** button in Postman and selecting the file.
 3. **Set Up the Environment**: Ensure the environment variable `auth_token` is correctly set.
 4. **Run the Collection**:
    - Click the **Runner** button in Postman.
